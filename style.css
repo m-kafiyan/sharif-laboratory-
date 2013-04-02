@@ -9,3 +9,7 @@
 * https://github.com/m-kafiyan
 * http://maedeh-kafiyan.ir
 */
+body{
+	background: url('images/bg_body_bot.jpg');
+	background-repeat:repeat;
+}
