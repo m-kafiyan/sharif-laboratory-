@@ -11,5 +11,14 @@
 */
 body{
 	background: url('images/bg_body_bot.jpg');
-	background-repeat:repeat;
+	background-repeat:repeat-x;
+	background-color:#e4e4e4;
+	background-position:0 bottom;
+	min-height:800px;
+}
+div.hp{
+	background:url('images/bg_body_top1.gif');
+	background-repeat:repeat-x;
+	height:500px
+	
 }
