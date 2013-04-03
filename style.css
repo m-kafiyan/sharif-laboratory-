@@ -20,5 +20,11 @@ div.hp{
 	background:url('images/bg_body_top1.gif');
 	background-repeat:repeat-x;
 	height:500px
-	
+}
+/* <>< ><> ><> ~~ ~~ <>< ><> ~~~ header ~~~ <>< ><> ><> ~~ ><> ~~~ <>< ><> */
+
+div.container div.headpage{
+	margin-top:2px;
+	background:url ('images/bg_mesh.png');
+	height:170px;
 }
