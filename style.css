@@ -25,11 +25,34 @@ div.hp{
 
 div.container div.headpage{
 	margin-top:2px;
-	background:url('images/bg_mesh.png');
-	height:140px;
+	background:url('images/yu.jpg');
+	height:137px;
 	background-color:#fff;
 	margin-top:12px;
 	position:absolute;
 	border-radius:14px;
 	box-shadow:5px 3px 11px #d2d2d2;
+	background-repeat:no-repeat;
+	background-position:right;
+
+}
+div.headpage a.uniname{
+	color: #d1d0d5;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+    text-transform: capitalize;
+    margin-left: 428px;
+    font-size: 22px;
+    font-family: 'Simonetta', cursive;
+}
+div.headpage a.sname{
+	color: #d1d0d5;
+    text-decoration: none;
+     display: block;
+    font-family: 'Simonetta', cursive;
+	font-size:20px;
+	text-transform:capitalize;
+	margin-left:194px;
+	margin-top:31px;
 }
