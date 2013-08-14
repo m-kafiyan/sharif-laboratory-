@@ -160,3 +160,38 @@ body .hole nav {
 body .hole nav .menu {
   list-style-type: none;
 }
+/* line 27, ../sass/screen.scss */
+body .hole nav .menu li {
+  float: left;
+}
+/* line 29, ../sass/screen.scss */
+body .hole nav .menu li:hover {
+  background-color: #093B6B;
+}
+/* line 30, ../sass/screen.scss */
+body .hole nav .menu li a {
+  color: #999;
+  display: block;
+  padding: 11px 14px 9px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+/* line 38, ../sass/screen.scss */
+body .hole nav .menu li a:hover {
+  color: #fff;
+}
+/* line 43, ../sass/screen.scss */
+body .hole .main {
+  color: #000;
+  font-family: arial;
+}
+/* line 44, ../sass/screen.scss */
+body .hole .main span {
+  font-size: 14px;
+}
+/* line 47, ../sass/screen.scss */
+body .hole .main p {
+  font-size: 12px;
+}
