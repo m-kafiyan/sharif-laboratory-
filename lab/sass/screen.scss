@@ -4,3 +4,15 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
+@import "compass/reset";
+body{
+	background-color: 		:#fff;
+	.hole{
+		min-height				: 750px;
+		margin-top				: 2px;
+		padding-top				: 5px;
+		div.headimg{
+			outline: 1px dashed 
+		}
+	}
+}
