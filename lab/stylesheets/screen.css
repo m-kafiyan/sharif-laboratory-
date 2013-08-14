@@ -134,7 +134,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 /* line 8, ../sass/screen.scss */
 body {
-  background-color: #fff;
+  background-color: #fffdfd;
 }
 /* line 10, ../sass/screen.scss */
 body .hole {
@@ -188,10 +188,11 @@ body .hole .main {
   color: #000;
   font-family: arial;
   width: 950px;
-  min-height: 150px;
+  min-height: 250px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
+  text-align: justify;
 }
 /* line 45, ../sass/screen.scss */
 body .hole .main h2 {

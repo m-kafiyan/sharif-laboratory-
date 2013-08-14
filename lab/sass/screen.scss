@@ -6,7 +6,7 @@
 @import "compass/reset";
 @import "compass/reset";
 body{
-	background-color:#fff;
+	background-color:#fffdfd;
 	.hole{
 		min-height				: 750px;
 		margin-top				: 2px;
@@ -53,10 +53,11 @@ body{
 			color:#000;
 			font-family: arial;
 			width: 950px;
-			min-height: 150px;
+			min-height: 250px;
 			margin-left: auto;
 			margin-right: auto;
 			margin-top: 100px;
+			text-align: justify;
 		}	
 		}
 	}
