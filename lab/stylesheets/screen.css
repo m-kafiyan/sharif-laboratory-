@@ -188,7 +188,7 @@ body .hole .main {
   color: #000;
   font-family: arial;
   width: 950px;
-  min-height: 400px;
+  min-height: 150px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
@@ -196,7 +196,7 @@ body .hole .main {
 /* line 45, ../sass/screen.scss */
 body .hole .main h2 {
   font-size: 16px;
-  font-style: bold;
+  font-weight: bold;
 }
 /* line 49, ../sass/screen.scss */
 body .hole .main p {
