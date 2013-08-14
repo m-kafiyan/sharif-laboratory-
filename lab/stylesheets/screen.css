@@ -155,20 +155,21 @@ body .hole nav {
   border: 1px solid #222;
   background-image: linear-gradient(#444444, #111111);
   box-shadow: 0 1px 1px #777;
+  top: 0;
 }
-/* line 25, ../sass/screen.scss */
+/* line 26, ../sass/screen.scss */
 body .hole nav .menu {
   list-style-type: none;
 }
-/* line 27, ../sass/screen.scss */
+/* line 28, ../sass/screen.scss */
 body .hole nav .menu li {
   float: left;
 }
-/* line 29, ../sass/screen.scss */
+/* line 30, ../sass/screen.scss */
 body .hole nav .menu li:hover {
   background-color: #093B6B;
 }
-/* line 30, ../sass/screen.scss */
+/* line 31, ../sass/screen.scss */
 body .hole nav .menu li a {
   color: #999;
   display: block;
@@ -178,25 +179,27 @@ body .hole nav .menu li a {
   text-transform: capitalize;
   text-decoration: none;
 }
-/* line 38, ../sass/screen.scss */
+/* line 39, ../sass/screen.scss */
 body .hole nav .menu li a:hover {
   color: #fff;
 }
-/* line 43, ../sass/screen.scss */
+/* line 44, ../sass/screen.scss */
 body .hole .main {
   color: #000;
   font-family: arial;
   width: 950px;
-  min-height: 600px;
+  min-height: 400px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
 }
-/* line 44, ../sass/screen.scss */
-body .hole .main span {
-  font-size: 14px;
+/* line 45, ../sass/screen.scss */
+body .hole .main h2 {
+  font-size: 16px;
+  font-style: bold;
 }
-/* line 47, ../sass/screen.scss */
+/* line 49, ../sass/screen.scss */
 body .hole .main p {
-  font-size: 12px;
+  font-size: 15px;
+  line-height: 22px;
 }
